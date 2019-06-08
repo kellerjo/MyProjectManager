@@ -1,0 +1,11 @@
+---
+
+ProjectName: MyProjectManager
+
+ShortProjectDescription: A personal manager for local projects
+
+alias: [ mpm, MPM ]
+
+Language: Python
+
+Status: Active
